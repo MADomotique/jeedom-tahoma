@@ -1,3 +1,10 @@
+- 17 nov 2022 (beta) 
+* correction bug sur commande Setclosure à 100
+
+- 08 nov 2022 (stable)
+* Début de support des climatiseurs et des thermostats 
+* ?
+
 - 30 avr 2022
 * Ajout de la page panel (merci @lucguinchard)
 * Affichage dekstop (merci @lucguinchard)
